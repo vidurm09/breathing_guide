@@ -1,9 +1,9 @@
 #include <FastLED.h>
 
 #define NUM_LEDS 12
-#define DATA_PIN 5
+#define DATA_PIN 0
 
-#define POT_PIN A0
+#define POT_PIN A2
 #define POT_DEBOUNCE 5
 #define POT_MAX 1023
 #define NUM_BUCKETS 10

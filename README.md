@@ -20,5 +20,6 @@
 
 ### Use
 | ATTiny | IO |
+| ------------- | ------------- |
 | 4/A2 | Pot Signal |
 | 0 | Light Ring DI |
